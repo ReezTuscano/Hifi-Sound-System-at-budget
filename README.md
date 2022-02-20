@@ -24,6 +24,11 @@ https://user-images.githubusercontent.com/100014146/154802864-e8267968-62f6-4594
 
 https://user-images.githubusercontent.com/100014146/154803498-02eccdb6-1806-4ace-a5cd-e9d42913ac58.mp4
 
+
+
+
+CLICK THE PICTURE BELOW TO WATCH THE FULL VIDEO
+
 [![SC2 Video](https://user-images.githubusercontent.com/100014146/154827493-7eb0cddd-dcc5-43a4-bfa5-9e2d5e9529e6.jpg)](https://drive.google.com/file/d/1z3wYSlg0_qgSVuzc-_Vz4lBJDxSQPRe2/view?usp=sharing)
 
 
