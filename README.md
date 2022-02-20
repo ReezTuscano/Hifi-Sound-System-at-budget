@@ -8,7 +8,7 @@ Breaking the monopoly of pre existing HIFI audiophiles system.
 
 
 CLICK THE PICTURE BELOW TO WATCH THE FULL VIDEO
-
+[![SC2 Video](https://user-images.githubusercontent.com/100014146/154802311-63925973-05fa-412f-b3fe-deca313d6d4c.jpeg)](https://drive.google.com/file/d/16l0J5DQ1uzBBEm99hrkmfnhNEvAfjHYx/view?usp=sharing)
 
 [![SC2 Video](https://user-images.githubusercontent.com/100014146/154802311-63925973-05fa-412f-b3fe-deca313d6d4c.jpeg)](https://drive.google.com/file/d/16l0J5DQ1uzBBEm99hrkmfnhNEvAfjHYx/view?usp=sharing)
 
@@ -24,6 +24,9 @@ https://user-images.githubusercontent.com/100014146/154802864-e8267968-62f6-4594
 
 
 https://user-images.githubusercontent.com/100014146/154803498-02eccdb6-1806-4ace-a5cd-e9d42913ac58.mp4
+
+[![SC2 Video](https://user-images.githubusercontent.com/100014146/154802311-63925973-05fa-412f-b3fe-deca313d6d4c.jpeg)](https://drive.google.com/file/d/1z3wYSlg0_qgSVuzc-_Vz4lBJDxSQPRe2/view?usp=sharing)
+
 [![SC2 Video](https://user-images.githubusercontent.com/100014146/154827491-711677b1-e4d5-413c-9e72-81fdd460935b.jpg)](https://drive.google.com/file/d/1z3wYSlg0_qgSVuzc-_Vz4lBJDxSQPRe2/view?usp=sharing)
 
 Why does our product costs less?
