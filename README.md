@@ -226,3 +226,25 @@ References:
 • https://en.wikipedia.org/wiki/Zobel_network
 • https://neurochrome.com/pages/stability
 • Youtube and lots of audio blogs and podcasts
+
+
+
+
+![IMG_20210321_073019605_result](https://user-images.githubusercontent.com/100014146/154827487-b25e276f-a54a-43bb-ac94-ec6d45efedc4.jpg)
+![IMG_20210321_073033873_result](https://user-images.githubusercontent.com/100014146/154827491-711677b1-e4d5-413c-9e72-81fdd460935b.jpg)
+![IMG_20210321_073036240_result](https://user-images.githubusercontent.com/100014146/154827492-a299390b-7686-4188-9123-1803141966b7.jpg)
+![IMG_20210321_073055515_result](https://user-images.githubusercontent.com/100014146/154827493-7eb0cddd-dcc5-43a4-bfa5-9e2d5e9529e6.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 27 PM_result](https://user-images.githubusercontent.com/100014146/154827494-f84e7163-f37c-4f50-a50f-cb782ce1011e.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 31 PM_result](https://user-images.githubusercontent.com/100014146/154827496-635b0015-e76b-4b49-ad7a-cea09927c724.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 33 PM_result](https://user-images.githubusercontent.com/100014146/154827497-7de89a17-f75d-4cd8-adde-4f0a488d784f.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 34 PM_result](https://user-images.githubusercontent.com/100014146/154827498-4de0f36d-06b8-42a5-9b3e-ebf764c7ca7d.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 40 PM_result](https://user-images.githubusercontent.com/100014146/154827499-288c34fe-7fa2-4bd0-9cc5-2e20c5d55909.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 26 PM_result](https://user-images.githubusercontent.com/100014146/154827500-0099d61a-87cd-4738-aa15-3cd77ac20d78.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 27 PM (1)_result](https://user-images.githubusercontent.com/100014146/154827502-a97e8551-c92b-4c84-a132-cd00e2410e20.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 27 PM_result](https://user-images.githubusercontent.com/100014146/154827503-3bb693be-d823-4263-a61b-11213a4ffcbe.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 28 PM (1)_result](https://user-images.githubusercontent.com/100014146/154827504-0138199f-9f25-4d34-b3a5-272761a8cfb6.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 28 PM_result](https://user-images.githubusercontent.com/100014146/154827505-48586fb4-9e37-4007-872d-1d34cc0378c7.jpg)
+![IMG_20210321_073019605_result](https://user-images.githubusercontent.com/100014146/154827506-f6022526-6a78-4b91-9f1b-9bc9ecf48c00.jpg)
+![IMG_20210321_073022767_result](https://user-images.githubusercontent.com/100014146/154827507-9b0f6db8-5a4a-4e6d-a0a8-1d94cd95aa4f.jpg)
+![IMG_20210321_073028811_result](https://user-images.githubusercontent.com/100014146/154827508-96a16aed-1390-41bf-b964-8f0884aca71f.jpg)
+
