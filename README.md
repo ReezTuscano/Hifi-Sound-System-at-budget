@@ -7,8 +7,9 @@ Breaking the monopoly of pre existing HIFI audiophiles system.
 
 
 
+CLICK THE PICTURE BELOW TO WATCH THE FULL VIDEO
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+[![SC2 Video](https://user-images.githubusercontent.com/100014146/154802311-63925973-05fa-412f-b3fe-deca313d6d4c.jpeg)](https://drive.google.com/file/d/16l0J5DQ1uzBBEm99hrkmfnhNEvAfjHYx/view?usp=sharing)
 
 https://user-images.githubusercontent.com/100014146/154802864-e8267968-62f6-4594-85e7-2ec494578576.mp4 
 
@@ -36,7 +37,7 @@ by 10.thus out product cost less as less efforts are taken to
 reduce the THD to atomic level.
 
 
-![WhatsApp Image 2022-02-19 at 1 20 40 PM](https://user-images.githubusercontent.com/100014146/154802311-63925973-05fa-412f-b3fe-deca313d6d4c.jpeg)
+
 
 
 
