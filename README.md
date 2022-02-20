@@ -9,6 +9,7 @@ Breaking the monopoly of pre existing HIFI audiophiles system.
 
 CLICK THE PICTURE BELOW TO WATCH THE FULL VIDEO
 
+
 [![SC2 Video](https://user-images.githubusercontent.com/100014146/154802311-63925973-05fa-412f-b3fe-deca313d6d4c.jpeg)](https://drive.google.com/file/d/16l0J5DQ1uzBBEm99hrkmfnhNEvAfjHYx/view?usp=sharing)
 
 https://user-images.githubusercontent.com/100014146/154802864-e8267968-62f6-4594-85e7-2ec494578576.mp4 
@@ -23,6 +24,7 @@ https://user-images.githubusercontent.com/100014146/154802864-e8267968-62f6-4594
 
 
 https://user-images.githubusercontent.com/100014146/154803498-02eccdb6-1806-4ace-a5cd-e9d42913ac58.mp4
+[![SC2 Video](https://user-images.githubusercontent.com/100014146/154827491-711677b1-e4d5-413c-9e72-81fdd460935b.jpg)](https://drive.google.com/file/d/1z3wYSlg0_qgSVuzc-_Vz4lBJDxSQPRe2/view?usp=sharing)
 
 Why does our product costs less?
 ● The products produced by the companies cost way more
@@ -39,9 +41,14 @@ reduce the THD to atomic level.
 
 
 
+![IMG_20210321_073019605_result](https://user-images.githubusercontent.com/100014146/154827487-b25e276f-a54a-43bb-ac94-ec6d45efedc4.jpg)
+![IMG_20210321_073033873_result](https://user-images.githubusercontent.com/100014146/154827491-711677b1-e4d5-413c-9e72-81fdd460935b.jpg)
 
 
-![WhatsApp Image 2022-02-19 at 1 21 26 PM](https://user-images.githubusercontent.com/100014146/154802314-c3e51065-aedd-4b73-a6ac-19a0ce2b2b29.jpeg)
+
+Click the pricture below to watch video of project
+[![SC2 Video]((https://user-images.githubusercontent.com/100014146/154827496-635b0015-e76b-4b49-ad7a-cea09927c724.jpg)](https://drive.google.com/file/d/1kWhZcxW8vdMDsVCI84ydJlivkNv8aohw/view?usp=sharing)
+
 
 
 Problem Statement:
@@ -55,8 +62,10 @@ companies offer to their user ,but still maintain the budget and
 pocket friendly features
 
 
-![WhatsApp Image 2022-02-19 at 1 21 27 PM (1)](https://user-images.githubusercontent.com/100014146/154802316-ace153f9-6597-4dc6-8b51-6e5814f784e7.jpeg)
-![WhatsApp Image 2022-02-19 at 1 21 27 PM](https://user-images.githubusercontent.com/100014146/154802318-37d451ea-3992-4b16-9668-2c9bb265860f.jpeg)
+
+![IMG_20210321_073036240_result](https://user-images.githubusercontent.com/100014146/154827492-a299390b-7686-4188-9123-1803141966b7.jpg)
+![IMG_20210321_073055515_result](https://user-images.githubusercontent.com/100014146/154827493-7eb0cddd-dcc5-43a4-bfa5-9e2d5e9529e6.jpg)
+
 
 Survey of Existing System:
 Audiophiles have worked diligently to alert the rest of the world to products
@@ -70,11 +79,10 @@ is ,we created a audio music system which cost way less but matches the
 quality of the top audio companies upto 90%
 
 
-![WhatsApp Image 2022-02-19 at 1 21 28 PM (1)](https://user-images.githubusercontent.com/100014146/154802319-ef39babf-664b-4e56-864e-4a8842b0d5df.jpeg)
 
 
-![WhatsApp Image 2022-02-19 at 1 21 28 PM](https://user-images.githubusercontent.com/100014146/154802321-f393c57e-1aa9-4254-ae40-947f460d96a1.jpeg)
-
+![WhatsApp Image 2022-02-19 at 1 20 27 PM_result](https://user-images.githubusercontent.com/100014146/154827494-f84e7163-f37c-4f50-a50f-cb782ce1011e.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 31 PM_result](https://user-images.githubusercontent.com/100014146/154827496-635b0015-e76b-4b49-ad7a-cea09927c724.jpg)
 
 
 Proposed System
@@ -96,7 +104,8 @@ but later, we will use 100 watt each using ttc5200 and 1943)
 • Bass blaster circuit for front left and right and subwoofer
 
 
-![IMG_20210321_073022767](https://user-images.githubusercontent.com/100014146/154802328-42d5ecfd-cf6b-48bc-a197-5de56f10fe3c.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 33 PM_result](https://user-images.githubusercontent.com/100014146/154827497-7de89a17-f75d-4cd8-adde-4f0a488d784f.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 34 PM_result](https://user-images.githubusercontent.com/100014146/154827498-4de0f36d-06b8-42a5-9b3e-ebf764c7ca7d.jpg)
 
 Preamplifier Features –Modes of connectivity
 • Aux ,Bluetooth , usb to computer as sound card , coaxial and
@@ -116,7 +125,9 @@ due to transformer power limitation
 
 
 
-![IMG_20210321_073028811](https://user-images.githubusercontent.com/100014146/154802332-c48f13da-ed74-49b0-a0be-7778297ef5f8.jpg)
+![WhatsApp Image 2022-02-19 at 1 20 40 PM_result](https://user-images.githubusercontent.com/100014146/154827499-288c34fe-7fa2-4bd0-9cc5-2e20c5d55909.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 26 PM_result](https://user-images.githubusercontent.com/100014146/154827500-0099d61a-87cd-4738-aa15-3cd77ac20d78.jpg)
+
 
 Some features of the Amplifier
 • Designed 1
@@ -132,7 +143,8 @@ and low values.(planning to use capacitance multiplier for reduce
 the ripple even further)
 
 
-![IMG_20210321_073033873](https://user-images.githubusercontent.com/100014146/154802339-b5516fa6-0a38-4b03-b32f-911a02110abb.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 27 PM (1)_result](https://user-images.githubusercontent.com/100014146/154827502-a97e8551-c92b-4c84-a132-cd00e2410e20.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 27 PM_result](https://user-images.githubusercontent.com/100014146/154827503-3bb693be-d823-4263-a61b-11213a4ffcbe.jpg)
 
 
 
@@ -148,7 +160,10 @@ About the box
 • Ported enclosure for more spl
 
 
-![IMG_20210321_073036240](https://user-images.githubusercontent.com/100014146/154802345-f5745331-3141-44b3-8026-c5d758690df4.jpg)
+
+
+![WhatsApp Image 2022-02-19 at 1 21 28 PM (1)_result](https://user-images.githubusercontent.com/100014146/154827504-0138199f-9f25-4d34-b3a5-272761a8cfb6.jpg)
+![WhatsApp Image 2022-02-19 at 1 21 28 PM_result](https://user-images.githubusercontent.com/100014146/154827505-48586fb4-9e37-4007-872d-1d34cc0378c7.jpg)
 
 
 Details of Hardware & Software
@@ -163,7 +178,9 @@ to power an 60watt 8ohm speaker.
 
 
 
-![IMG_20210321_073055515](https://user-images.githubusercontent.com/100014146/154802352-5c292660-3e94-448e-b9d5-82b83b6864f8.jpg)
+![IMG_20210321_073019605_result](https://user-images.githubusercontent.com/100014146/154827506-f6022526-6a78-4b91-9f1b-9bc9ecf48c00.jpg)
+![IMG_20210321_073022767_result](https://user-images.githubusercontent.com/100014146/154827507-9b0f6db8-5a4a-4e6d-a0a8-1d94cd95aa4f.jpg)
+
 
 
 Why Lm3886 IC ?
@@ -174,7 +191,8 @@ Why Lm3886 IC ?
 • and low cost ( ₹180).
 
 
-![IMG_20210321_073019605](https://user-images.githubusercontent.com/100014146/154802323-4242f5de-e96b-43af-bffc-980b14d1d764.jpg)
+![IMG_20210321_073028811_result](https://user-images.githubusercontent.com/100014146/154827508-96a16aed-1390-41bf-b964-8f0884aca71f.jpg)
+
 
 Experiment and Results:
 The sound quality of the Audio system is Awesome comparing to the
@@ -190,17 +208,15 @@ signature Next Level.
 • Number of connection interfaces can be increased for better user
 experience
 
-![Screen Shot 080](https://user-images.githubusercontent.com/100014146/154803800-31659bba-cf6e-46c4-ad54-e341d460f3c7.PNG)
-![Screen Shot 081](https://user-images.githubusercontent.com/100014146/154803801-ed9cec64-2449-417e-b73a-533b0ddf923b.PNG)
-![Screen Shot 082](https://user-images.githubusercontent.com/100014146/154803803-a5484be5-6f2a-42af-a5bb-d631cc152d68.PNG)
-
 
 
 
 ![Screen Shot 061](https://user-images.githubusercontent.com/100014146/154802769-05f5d539-df0d-4cf3-9e48-a5ca6c1e88c9.PNG)
 ![Screen Shot 062](https://user-images.githubusercontent.com/100014146/154802774-b45fa031-3ee2-4cd5-a172-e2620c30344a.PNG)
+
 ![Screen Shot 063](https://user-images.githubusercontent.com/100014146/154802778-d4b2744d-6a39-4d36-9635-5354fdd29b05.PNG)
 ![Screen Shot 064](https://user-images.githubusercontent.com/100014146/154802781-39b632cf-bf13-4c24-bdd0-c941ae93f9a7.PNG)
+
 ![Screen Shot 065](https://user-images.githubusercontent.com/100014146/154802783-dfabcc67-5c76-4c51-9562-fadd0ac51cdd.PNG)
 ![Screen Shot 066](https://user-images.githubusercontent.com/100014146/154802787-1b663b93-bfb6-4ee5-afc9-243e002ac614.PNG)
 ![Screen Shot 067](https://user-images.githubusercontent.com/100014146/154802791-945e15f8-0781-46a9-bc37-34439c0bba4d.PNG)
@@ -227,24 +243,4 @@ References:
 • https://neurochrome.com/pages/stability
 • Youtube and lots of audio blogs and podcasts
 
-
-
-
-![IMG_20210321_073019605_result](https://user-images.githubusercontent.com/100014146/154827487-b25e276f-a54a-43bb-ac94-ec6d45efedc4.jpg)
-![IMG_20210321_073033873_result](https://user-images.githubusercontent.com/100014146/154827491-711677b1-e4d5-413c-9e72-81fdd460935b.jpg)
-![IMG_20210321_073036240_result](https://user-images.githubusercontent.com/100014146/154827492-a299390b-7686-4188-9123-1803141966b7.jpg)
-![IMG_20210321_073055515_result](https://user-images.githubusercontent.com/100014146/154827493-7eb0cddd-dcc5-43a4-bfa5-9e2d5e9529e6.jpg)
-![WhatsApp Image 2022-02-19 at 1 20 27 PM_result](https://user-images.githubusercontent.com/100014146/154827494-f84e7163-f37c-4f50-a50f-cb782ce1011e.jpg)
-![WhatsApp Image 2022-02-19 at 1 20 31 PM_result](https://user-images.githubusercontent.com/100014146/154827496-635b0015-e76b-4b49-ad7a-cea09927c724.jpg)
-![WhatsApp Image 2022-02-19 at 1 20 33 PM_result](https://user-images.githubusercontent.com/100014146/154827497-7de89a17-f75d-4cd8-adde-4f0a488d784f.jpg)
-![WhatsApp Image 2022-02-19 at 1 20 34 PM_result](https://user-images.githubusercontent.com/100014146/154827498-4de0f36d-06b8-42a5-9b3e-ebf764c7ca7d.jpg)
-![WhatsApp Image 2022-02-19 at 1 20 40 PM_result](https://user-images.githubusercontent.com/100014146/154827499-288c34fe-7fa2-4bd0-9cc5-2e20c5d55909.jpg)
-![WhatsApp Image 2022-02-19 at 1 21 26 PM_result](https://user-images.githubusercontent.com/100014146/154827500-0099d61a-87cd-4738-aa15-3cd77ac20d78.jpg)
-![WhatsApp Image 2022-02-19 at 1 21 27 PM (1)_result](https://user-images.githubusercontent.com/100014146/154827502-a97e8551-c92b-4c84-a132-cd00e2410e20.jpg)
-![WhatsApp Image 2022-02-19 at 1 21 27 PM_result](https://user-images.githubusercontent.com/100014146/154827503-3bb693be-d823-4263-a61b-11213a4ffcbe.jpg)
-![WhatsApp Image 2022-02-19 at 1 21 28 PM (1)_result](https://user-images.githubusercontent.com/100014146/154827504-0138199f-9f25-4d34-b3a5-272761a8cfb6.jpg)
-![WhatsApp Image 2022-02-19 at 1 21 28 PM_result](https://user-images.githubusercontent.com/100014146/154827505-48586fb4-9e37-4007-872d-1d34cc0378c7.jpg)
-![IMG_20210321_073019605_result](https://user-images.githubusercontent.com/100014146/154827506-f6022526-6a78-4b91-9f1b-9bc9ecf48c00.jpg)
-![IMG_20210321_073022767_result](https://user-images.githubusercontent.com/100014146/154827507-9b0f6db8-5a4a-4e6d-a0a8-1d94cd95aa4f.jpg)
-![IMG_20210321_073028811_result](https://user-images.githubusercontent.com/100014146/154827508-96a16aed-1390-41bf-b964-8f0884aca71f.jpg)
 
